@@ -58,7 +58,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
                     XXPermissions.with(MainActivity.this)
                             // 可设置被拒绝后继续申请，直到用户授权或者永久拒绝
                             //.constantRequest()
