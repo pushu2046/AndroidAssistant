@@ -1,0 +1,2 @@
+include ':app', ':AndroidUtils'
+rootProject.name='AndroidAssistant'
